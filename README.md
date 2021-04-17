@@ -4,7 +4,7 @@ Estimation of the object's dimensions in real-time:
 
 	- Using OpenCV & Numpy
 	
-        - Applying contour method to find biggest contour first
+        -> Applying contour method to find biggest contour first
 	
 	- Convert img to grey scale 
 	
