@@ -1,6 +1,9 @@
 # object-dimension-measurement
 
-Estimation of the object's dimensions in real-time using opencv and numpy:
+Estimation of the object's dimensions in real-time:
+
+        - using opencv and numpy
+	
 	- Applying contour method to find biggest contour first
 	
 	- Convert img to grey scale 
