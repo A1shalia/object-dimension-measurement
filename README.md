@@ -2,7 +2,7 @@
 
 Estimation of the object's dimensions in real-time:
 
-        - using opencv and numpy
+        # using opencv and numpy
 	
 	- Applying contour method to find biggest contour first
 	
