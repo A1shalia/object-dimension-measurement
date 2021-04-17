@@ -20,7 +20,7 @@ Estimation of the object's dimensions in real-time:
 	
 	- Warp: to get sequence of contours
 	
-	- Apply padding to remove the corner extra pixels
+	- Apply padding to remove the extra corner pixels
 	
 	- Find objects within our A4 paper
 	
