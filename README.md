@@ -3,7 +3,6 @@
 -to estimate the object's dimensions in real -time.
 
 	- Using OpenCV & Numpy (useful for array computing with python)
-
         - Applying contour method to find biggest contour first
 	- Convert img to grey scale 
 	- -then apply guassian blur on image 
