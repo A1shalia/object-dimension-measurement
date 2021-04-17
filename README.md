@@ -22,6 +22,6 @@ Estimation of the object's dimensions in real-time:
 	
 	- Apply padding to remove the extra corner pixels
 	
-	- Find objects within our A4 paper
+	- Find objects within input image
 	
 	- Obtain object's measurement with suitable representation
