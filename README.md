@@ -16,7 +16,7 @@ Estimation of the object's dimensions in real-time:
 	
 	- Find the contours
 	
-	- Optimize getContours() to detect the A4 sheet paper
+	- Optimize getContours() 
 	
 	- Warp: to get sequence of contours
 	
